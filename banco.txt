@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyBPLznwJxdUjIYXKO6ydV1ICwRj6P4eogM",
+  authDomain: "loja-systen.firebaseapp.com",
+  projectId: "loja-systen",
+  storageBucket: "loja-systen.appspot.com",
+  messagingSenderId: "354193804632",
+  appId: "1:354193804632:web:318d1508bb4c9a5f0ea92d"
+};
